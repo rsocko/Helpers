@@ -1,0 +1,222 @@
+[
+    {
+        "id": "icon_clipboard",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_clipboard?v=2",
+        "fluentIcon": "ClipboardSolid"
+    },
+    {
+        "id": "icon_crown",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_crown?v=2",
+        "fluentIcon": "CrownSolid"
+    },
+    {
+        "id": "icon_trophy",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_trophy?v=2",
+        "fluentIcon": "Trophy2Solid" // or Trophy2 or Trophy
+    },
+    {
+        "id": "icon_list",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_list?v=2",
+        "fluentIcon": "PageListMirroredSolid"
+    },
+    {
+        "id": "icon_book",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_book?v=2",
+        "fluentIcon": "ReadingModeSolid"
+    },
+    {
+        "id": "icon_sticky_note",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_sticky_note?v=2",
+        "fluentIcon": "QuickNoteSolid"
+    },
+    {
+        "id": "icon_insect",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_insect?v=2",
+        "fluentIcon": "LadybugSolid" //OR "BugSolid"
+    },
+    {
+        "id": "icon_traffic_cone",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_traffic_cone?v=2",
+        "fluentIcon": "ConstructionConeSolid"
+    },
+    {
+        "id": "icon_chat_bubble",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_chat_bubble?v=2",
+        "fluentIcon": "OfficeChatSolid"
+    },
+    {
+        "id": "icon_flame",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_flame?v=2",
+        "fluentIcon": "FlameSolid"
+    },
+    {
+        "id": "icon_megaphone",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_megaphone?v=2",
+        "fluentIcon": "MegaphoneSolid"
+    },
+    {
+        "id": "icon_code_review",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_code_review?v=2",
+        "fluentIcon": "ReviewRequestSolid"
+    },
+    {
+        "id": "icon_code_response",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_code_response?v=2",
+        "fluentIcon": "ReviewResponseSolid"
+    },
+    {
+        "id": "icon_review",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_review?v=2",
+        "fluentIcon": "FeedbackRequestSolid"
+    },
+    {
+        "id": "icon_response",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_response?v=2",
+        "fluentIcon": "FeedbackResponseSolid"
+    },
+    {
+        "id": "icon_test_plan",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_test_plan?v=2",
+        "fluentIcon": "TestPlan"
+    },
+    {
+        "id": "icon_test_suite",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_test_suite?v=2",
+        "fluentIcon": "TestSuite"
+    },
+    {
+        "id": "icon_test_case",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_test_case?v=2",
+        "fluentIcon": "TestCase"
+    },
+    {
+        "id": "icon_test_step",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_test_step?v=2",
+        "fluentIcon": "TestStep"
+    },
+    {
+        "id": "icon_test_parameter",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_test_parameter?v=2",
+        "fluentIcon": "TestParameter"
+    },
+    {
+        "id": "icon_star",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_star?v=2",
+        "fluentIcon": "StartburstSolid"
+    },
+    {
+        "id": "icon_ribbon",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_ribbon?v=2",
+        "fluentIcon": "RibbonSolid"
+    },
+    {
+        "id": "icon_chart",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_chart?v=2",
+        "fluentIcon": "FinancialSolid"
+    },
+    {
+        "id": "icon_headphone",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_headphone?v=2",
+        "fluentIcon": "HeadsetSolid"
+    },
+    {
+        "id": "icon_key",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_key?v=2",
+        "fluentIcon": "PermissionsSolid"
+    },
+    {
+        "id": "icon_airplane",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_airplane?v=2",
+        "fluentIcon": "AirplaneSolid"
+    },
+    {
+        "id": "icon_car",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_car?v=2",
+        "fluentIcon": "ParkingSolid"
+    },
+    {
+        "id": "icon_diamond",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_diamond?v=2",
+        "fluentIcon": "DiamondSolid"
+    },
+    {
+        "id": "icon_asterisk",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_asterisk?v=2",
+        "fluentIcon": "AsteriskSolid"
+    },
+    {
+        "id": "icon_database_storage",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_database_storage?v=2",
+        "fluentIcon": "OfflineStorageSolid"
+    },
+    {
+        "id": "icon_government",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_government?v=2",
+        "fluentIcon": "BankSolid"
+    },
+    {
+        "id": "icon_gavel",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_gavel?v=2",
+        "fluentIcon": "DecisionSolid"
+    },
+    {
+        "id": "icon_parachute",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_parachute?v=2",
+        "fluentIcon": "ParachuteSolid"
+    },
+    {
+        "id": "icon_paint_brush",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_paint_brush?v=2",
+        "fluentIcon": "FilterSolid"
+    },
+    {
+        "id": "icon_palette",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_palette?v=2",
+        "fluentIcon": "ColorSolid"
+    },
+    {
+        "id": "icon_gear",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_gear?v=2",
+        "fluentIcon": "Settings" //OR "ConfigurationSolid" OR "Processing"
+    },
+    {
+        "id": "icon_check_box",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_check_box?v=2",
+        "fluentIcon": "BoxCheckmarkSolid"
+    },
+    {
+        "id": "icon_gift",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_gift?v=2",
+        "fluentIcon": "GiftBoxSolid"
+    },
+    {
+        "id": "icon_test_beaker",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_test_beaker?v=2",
+        "fluentIcon": "TestBeakerSolid"
+    },
+    {
+        "id": "icon_broken_lightbulb",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_broken_lightbulb?v=2",
+        "fluentIcon": "DefectSolid"
+    },
+    {
+        "id": "icon_clipboard_issue",
+        "url": " https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_clipboard_issue?v=2",
+        "fluentIcon": "IssueSolid"
+    },
+    {
+        "id": "icon_pull_request",
+        "url": "https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_pull_request?v=2",
+        "fluentIcon": "BranchPullRequest"
+    },
+    {
+        "id": "icon_github",
+        "url": "https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_github?v=3",
+        "fluentIcon": "GitHubLogo"
+    },
+    {
+        "id": "icon_github_issue",
+        "url": "https://tfsprodcus2.visualstudio.com/_apis/wit/workItemIcons/icon_github_issue?v=2",
+        "fluentIcon": "Error"
+    }
+]
